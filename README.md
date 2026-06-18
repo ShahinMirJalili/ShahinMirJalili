@@ -1,54 +1,86 @@
-<h1 align="center">Shahin Mir Jalili</h1>
-<p align="center"><b>Software-Entwickler &amp; Gründer</b> · iOS · Web · KI-Automatisierung</p>
-<p align="center">📍 Holzminden, Niedersachsen · 🇩🇪 🇬🇧 🇮🇷</p>
+<!-- ========= HEADER BANNER (animiert) ========= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0071e3,50:6f42c1,100:00b45d&height=200&section=header&text=Shahin%20Mir%20Jalili&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software-Entwickler%20%26%20Gr%C3%BCnder%20%C2%B7%20iOS%20%C2%B7%20Web%20%C2%B7%20KI&descSize=18&descAlignY=58&descColor=e8e8f0" alt="Shahin Mir Jalili" />
+</p>
 
----
+<!-- ========= TYPING ANIMATION ========= -->
+<p align="center">
+  <a href="https://falcontechsolutions.de">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00B45D&center=true&vCenter=true&width=560&lines=iOS-Entwickler+%28Swift+%2F+SwiftUI%29;Gr%C3%BCnder+%40+FalconTech+Solutions;KI-+%26+Automatisierungs-Bastler;Autodidakt+aus+Holzminden+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+  </a>
+</p>
 
-### 👋 Über mich
+<!-- ========= SOCIAL / KONTAKT ========= -->
+<p align="center">
+  <a href="https://falcontechsolutions.de"><img src="https://img.shields.io/badge/Website-falcontechsolutions.de-0071e3?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="mailto:info@falcontechsolutions.de"><img src="https://img.shields.io/badge/E--Mail-Kontakt-6f42c1?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" /></a>
+  <a href="https://github.com/ShahinMirJalili/trackx-showcase"><img src="https://img.shields.io/badge/App_Store-TrackX-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" /></a>
+</p>
 
-Autodidaktischer Entwickler aus Holzminden. Ich habe mir Softwareentwicklung selbst beigebracht
-und das Gelernte direkt in echte Produkte verwandelt: eine **iOS-App im Apple App Store**,
-eine eigene **Web-Agentur mit Team**, und mehrere ausgelieferte Kunden-Websites.
+<br/>
 
-Ich denke unternehmerisch, arbeite eigeninitiativ und bringe Projekte vom Konzept bis zum
-Release — allein und im Team. Aktuell baue ich meine Skills in einer **Weiterbildung (ab Juni 2026)**
-weiter aus, mit Fokus auf moderne Softwareentwicklung und KI.
+## 👋 Über mich
 
-### 🛠️ Tech-Stack
+Autodidaktischer Entwickler aus Holzminden. Ich habe mir Softwareentwicklung selbst beigebracht und das Gelernte direkt in echte Produkte verwandelt: eine **iOS-App im Apple App Store**, eine eigene **Web- & KI-Agentur mit Team** und mehrere ausgelieferte Kunden-Websites.
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0071e3?style=flat&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+Ich denke unternehmerisch, arbeite eigeninitiativ und bringe Projekte vom Konzept bis zum Release — allein und im Team. Aktuell vertiefe ich meine Skills in einer **Weiterbildung (seit Juni 2026)** mit Fokus auf moderne Softwareentwicklung und KI.
 
-### 🚀 Ausgewählte Projekte
+<br/>
+
+## 🛠️ Tech-Stack
+
+**Sprachen**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Plattformen**
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071e3?style=flat-square&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools & KI**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+<br/>
+
+## 🚀 Ausgewählte Projekte
 
 | Projekt | Beschreibung | Tech |
-|---------|--------------|------|
-| **[TrackX](https://github.com/ShahinMirJalili/trackx-showcase)** — 📱 Live im App Store | iOS-App für Außendienst-Teams: GPS-Gebiets-Tracking, OCR-Kamera, Provisions-Dashboard, Teams & Chat. Komplett eigenständig entwickelt. | Swift, SwiftUI, Firebase, StoreKit 2, MapKit |
-| **[FalconTech Solutions](https://github.com/ShahinMirJalili/falcontech-website)** — 🌐 Live | Eigene Web- & KI-Agentur. Team-Portal, Client-Portal, CRM mit 350+ Leads, automatisierte Akquise. 4+ Kunden-Websites ausgeliefert. | HTML, CSS, JS, Supabase, Node.js |
-| **[Naybo](https://github.com/ShahinMirJalili/naybo-showcase)** — 📲 MVP | Lokale Stadt-App: Bestell-System, Reservierung, News-Feed. 36 Screens, Cross-Platform. | React Native, Expo, Supabase, NativeWind |
+|---|---|---|
+| 📱 **[TrackX](https://github.com/ShahinMirJalili/trackx-showcase)** · _live im App Store_ | iOS-App für Außendienst-Teams: GPS-Gebiets-Tracking, OCR-Kamera, Provisions-Dashboard, Teams & Chat. Komplett eigenständig entwickelt. | `Swift` `SwiftUI` `Firebase` `StoreKit 2` `MapKit` |
+| 🦅 **[FalconTech Solutions](https://github.com/ShahinMirJalili/falcontech-website)** · _live_ | Eigene Web- & KI-Agentur. Team-Portal, Client-Portal, CRM mit 350+ Leads, automatisierte Akquise. 4+ Kunden-Websites ausgeliefert. | `HTML` `CSS` `JS` `Supabase` `Node.js` |
+| 🏘️ **[Naybo](https://github.com/ShahinMirJalili/naybo-showcase)** · _MVP_ | Lokale Stadt-App: Bestell-System, Reservierung, News-Feed. 36 Screens, Cross-Platform. | `React Native` `Expo` `Supabase` `NativeWind` |
+| 🤖 **[ask-gdpr](https://github.com/ShahinMirJalili/ask-gdpr)** · _RAG-App_ | Fragt DSGVO auf Deutsch — findet die richtigen Artikel und lässt Claude nur aus dem echten Gesetzestext antworten, mit Quellen. | `Python` `Flask` `Claude` `RAG` |
 
-### 💼 Werdegang (Kurzfassung)
+<br/>
 
-- **Gründer &amp; Geschäftsführer** — FalconTech Solutions · 2025–heute
-- **iOS-Entwickler (selbstständig)** — TrackX App · 2024–heute
-- **Vertrieb (D2D)** — Vodafone / Ranger Marketing · 2023–2024
-- **Produktion** — STIEBEL ELTRON · 2021–2023
+## 📊 GitHub
 
-### 📫 Kontakt
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShahinMirJalili&show_icons=true&hide_border=true&theme=tokyonight&icon_color=00b45d&title_color=0071e3&include_all_commits=true" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahinMirJalili&layout=compact&hide_border=true&theme=tokyonight&title_color=0071e3&langs_count=8" alt="Top Languages" />
+</p>
 
-[![E-Mail](https://img.shields.io/badge/E--Mail-shahinmir605@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shahinmir605@gmail.com)
-[![Standort](https://img.shields.io/badge/Standort-Holzminden-2d2d2d?style=flat&logo=googlemaps&logoColor=white)](#)
+<br/>
 
----
+<p align="center">
+  <i>„Get paid before you build." — vom Konzept bis zum Release. 🚀</i>
+</p>
 
-<p align="center"><i>„Vom Konzept bis zum Release — und darüber hinaus."</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b45d,50:6f42c1,100:0071e3&height=120&section=footer" alt="footer" />
+</p>
