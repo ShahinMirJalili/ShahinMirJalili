@@ -71,7 +71,7 @@ Ich denke unternehmerisch, arbeite eigeninitiativ und bringe Projekte vom Konzep
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShahinMirJalili&show_icons=true&hide_border=true&theme=tokyonight&icon_color=00b45d&title_color=0071e3&include_all_commits=true" alt="Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShahinMirJalili&show_icons=true&hide_border=true&theme=tokyonight&icon_color=00b45d&title_color=0071e3" alt="Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahinMirJalili&layout=compact&hide_border=true&theme=tokyonight&title_color=0071e3&langs_count=8" alt="Top Languages" />
 </p>
 
