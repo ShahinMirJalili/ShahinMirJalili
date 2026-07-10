@@ -68,6 +68,45 @@ Ich denke unternehmerisch, arbeite eigeninitiativ und bringe Projekte vom Konzep
 
 <br/>
 
+## 🎓 Zertifikate
+
+<p>
+  <a href="https://anthropic.skilljar.com/"><img src="https://img.shields.io/badge/Anthropic_Academy-19%20%2F%2019%20abgeschlossen-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Academy 19/19" /></a>
+</p>
+
+Kompletter **Anthropic-Academy-Katalog** abgeschlossen — von der **Claude API** über **Model Context Protocol**, **Claude Code** und **Subagents** bis zu Deployments auf **Amazon Bedrock** und **Google Cloud Vertex AI**. Alle Nachweise öffentlich verifizierbar.
+
+<details>
+<summary><b>Alle 19 Zertifikate anzeigen</b></summary>
+
+<br/>
+
+| # | Kurs | Nachweis |
+|--:|---|---|
+| 1 | Building with the Claude API | [verify ✔](https://verify.skilljar.com/c/6jcj85veffvq) |
+| 2 | Introduction to Model Context Protocol | [verify ✔](https://verify.skilljar.com/c/79c5ucqcn2th) |
+| 3 | Model Context Protocol: Advanced Topics | [verify ✔](https://verify.skilljar.com/c/95ocxh9jpzef) |
+| 4 | Claude Code 101 | [verify ✔](https://verify.skilljar.com/c/hya5dhja7rcp) |
+| 5 | Claude Code in Action | [verify ✔](https://verify.skilljar.com/c/4v5rou669pdf) |
+| 6 | Claude Platform 101 | [verify ✔](https://verify.skilljar.com/c/xqy9jwb4fw2z) |
+| 7 | Claude 101 | [verify ✔](https://verify.skilljar.com/c/36nmsj472qjn) |
+| 8 | Introduction to Claude Cowork | [verify ✔](https://verify.skilljar.com/c/nei5gdjkc43m) |
+| 9 | AI Fluency: Framework & Foundations | [verify ✔](https://verify.skilljar.com/c/2i6mw3vgpswp) |
+| 10 | AI Fluency for Educators | [verify ✔](https://verify.skilljar.com/c/6mnuhno95sta) |
+| 11 | AI Fluency for Students | [verify ✔](https://verify.skilljar.com/c/8hpwnnt8vuuz) |
+| 12 | AI Fluency for Nonprofits | [verify ✔](https://verify.skilljar.com/c/74rxqq262vjh) |
+| 13 | Teaching AI Fluency | [verify ✔](https://verify.skilljar.com/c/84rz7ugtbi3p) |
+| 14 | Introduction to Agent Skills | [verify ✔](https://verify.skilljar.com/c/25ve2ehudrn5) |
+| 15 | AI Fluency for Builders | [verify ✔](https://verify.skilljar.com/c/6s75tto38kmt) |
+| 16 | AI Fluency for Small Businesses | [verify ✔](https://verify.skilljar.com/c/j28td8biqsrz) |
+| 17 | Introduction to Subagents | [verify ✔](https://verify.skilljar.com/c/skyr96q5eu3p) |
+| 18 | Claude with Amazon Bedrock | [verify ✔](https://verify.skilljar.com/c/zqnkmfvv42gh) |
+| 19 | Claude with Google Cloud's Vertex AI | [verify ✔](https://verify.skilljar.com/c/yayqmvbzpb4s) |
+
+</details>
+
+<br/>
+
 ## 📊 GitHub
 
 <p align="center">
