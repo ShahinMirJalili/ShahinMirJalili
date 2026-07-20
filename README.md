@@ -61,7 +61,7 @@ Ich denke unternehmerisch, arbeite eigeninitiativ und bringe Projekte vom Konzep
 
 | Projekt | Beschreibung | Tech |
 |---|---|---|
-| 📱 **[TrackX](https://github.com/ShahinMirJalili/trackx-showcase)** · _live im App Store_ | iOS-App für Außendienst-Teams: GPS-Gebiets-Tracking, OCR-Kamera, Provisions-Dashboard, Teams & Chat. Komplett eigenständig entwickelt. | `Swift` `SwiftUI` `Firebase` `StoreKit 2` `MapKit` |
+| 📱 **[TrackX](https://github.com/ShahinMirJalili/trackx-showcase)** · _live im App Store · v1.3 Team-Update_ | iOS-App für Außendienst-Teams: GPS-Gebiets-Tracking, OCR-Kamera, Provisions-Dashboard, Teams, Chat & Web-Portal für Teamleiter. Komplett eigenständig entwickelt. | `Swift` `SwiftUI` `Firebase` `StoreKit 2` `Next.js` |
 | 🦅 **[FalconTech Solutions](https://github.com/ShahinMirJalili/falcontech-website)** · _live_ | Eigene Web- & KI-Agentur. Team-Portal, Client-Portal, CRM mit 350+ Leads, automatisierte Akquise. 4+ Kunden-Websites ausgeliefert. | `HTML` `CSS` `JS` `Supabase` `Node.js` |
 | 🏘️ **[Naybo](https://github.com/ShahinMirJalili/naybo-showcase)** · _MVP_ | Lokale Stadt-App: Bestell-System, Reservierung, News-Feed. 36 Screens, Cross-Platform. | `React Native` `Expo` `Supabase` `NativeWind` |
 | 🤖 **[ask-gdpr](https://github.com/ShahinMirJalili/ask-gdpr)** · _RAG-App_ | Fragt DSGVO auf Deutsch — findet die richtigen Artikel und lässt Claude nur aus dem echten Gesetzestext antworten, mit Quellen. | `Python` `Flask` `Claude` `RAG` |
