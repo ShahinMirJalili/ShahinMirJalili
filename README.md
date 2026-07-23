@@ -12,6 +12,7 @@
 
 <!-- ========= SOCIAL / KONTAKT ========= -->
 <p align="center">
+  <a href="https://shahinmirjalili.github.io"><img src="https://img.shields.io/badge/Portfolio-shahinmirjalili.github.io-ff5a1f?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
   <a href="https://falcontechsolutions.de"><img src="https://img.shields.io/badge/Website-falcontechsolutions.de-0071e3?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
   <a href="mailto:info@falcontechsolutions.de"><img src="https://img.shields.io/badge/E--Mail-Kontakt-6f42c1?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" /></a>
   <a href="https://github.com/ShahinMirJalili/trackx-showcase"><img src="https://img.shields.io/badge/App_Store-TrackX-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" /></a>
